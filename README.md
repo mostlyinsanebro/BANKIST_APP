@@ -11,9 +11,9 @@ Functionalities:-
 2. Transferring money to other accounts.
 3. Requesting for a loan from the bank.
 4. Getting a log of all the previous transactions that the current user has done.
-5. Deleting the current account after entering the correct username and password.
+5. Deleting the current account.
 6. Timer functionality (After 2 minutes of inactivity, the current user will be automatically logged out of their account).
 
 Database:-
-It is built using static data. that we have provided in the codebase itself.
+It is built using static data. that has been provided in the codebase itself.
 
