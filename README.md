@@ -15,5 +15,5 @@ Functionalities:-
 6. Timer functionality (After 2 minutes of inactivity, the current user will be automatically logged out of their account).
 
 Database:-
-It is built using static data. that has been provided in the codebase itself.
+It is built using static data that has been provided in the codebase itself.
 
