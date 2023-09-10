@@ -180,7 +180,8 @@ const addElements = function (acc, sorted = false) {
      </div>
  `;
 
-    containerMovements.innerHTML = html + containerMovements.innerHTML;
+    //containerMovements.innerHTML = html + containerMovements.innerHTML;
+    containerMovements.insertAdjacentHTML('afterbegin', html);
   });
 };
 
